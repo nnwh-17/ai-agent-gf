@@ -43,3 +43,6 @@ __screenshots__/
 
 # backend
 __pycache__
+
+# frontend
+package-lock.json
