@@ -40,9 +40,13 @@ __screenshots__/
 
 # venv
 .venv
+.agent_venv
 
 # backend
 __pycache__
 
 # frontend
 package-lock.json
+
+# environment variables
+.env
