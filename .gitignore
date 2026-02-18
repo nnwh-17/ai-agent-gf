@@ -44,6 +44,7 @@ __screenshots__/
 
 # backend
 __pycache__
+database.db
 
 # frontend
 package-lock.json
